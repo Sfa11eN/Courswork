@@ -47,7 +47,7 @@ public class Main {
 
 
         }
-        System.out.println("Зарплаты в  текущем месяце составляют " + sum);
+        System.out.println("Зарплаты в текущем месяце составляют " + sum);
     }
 
     private static void lowSalary() {
